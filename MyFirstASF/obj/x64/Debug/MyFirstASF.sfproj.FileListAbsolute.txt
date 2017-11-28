@@ -1,0 +1,2 @@
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\MyFirstASF\obj\x64\Debug\MyFirstASF.sfproj.CoreCompileInputs.cache
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\MyFirstASF\obj\x64\Debug\MyFirstASF.sfproj.CoreCompileInputs.cache

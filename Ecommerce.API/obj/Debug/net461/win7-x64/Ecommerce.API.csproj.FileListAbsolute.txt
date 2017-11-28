@@ -1,0 +1,679 @@
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.csproj.CoreCompileInputs.cache
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.AssemblyInfoInputs.cache
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.AssemblyInfo.cs
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.exe.config
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.deps.json
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.exe
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.pdb
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\netfx.force.conflicts.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\netstandard.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.AppContext.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.Concurrent.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.NonGeneric.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.Specialized.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Console.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Data.Common.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Contracts.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Debug.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Process.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Tools.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Tracing.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Drawing.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Dynamic.Runtime.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Globalization.Calendars.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Globalization.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Globalization.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.Compression.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.IsolatedStorage.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.Pipes.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.Expressions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.Parallel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.Queryable.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Http.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.NameResolution.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.NetworkInformation.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Ping.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Requests.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Security.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Sockets.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.WebSockets.Client.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.WebSockets.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ObjectModel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Reflection.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Reflection.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Reflection.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Resources.Reader.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Resources.ResourceManager.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Resources.Writer.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Handles.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.InteropServices.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Numerics.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Claims.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Principal.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.SecureString.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Text.Encoding.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Text.RegularExpressions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Overlapped.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Tasks.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Thread.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.ThreadPool.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Timer.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ValueTuple.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.ReaderWriter.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XDocument.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XmlDocument.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XmlSerializer.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XPath.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\libuv.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Cors.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Localization.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Razor.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Routing.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Localization.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Options.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Net.Http.Headers.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Preview.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.Management.ServiceModel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.Strings.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.AspNetCore.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.AspNetCore.Kestrel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Data.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Services.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Win32.Registry.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Newtonsoft.Json.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Newtonsoft.Json.Bson.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Buffers.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.Immutable.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.Annotations.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Numerics.Vectors.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.Metadata.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.AccessControl.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Xml.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Principal.Windows.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encoding.CodePages.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encodings.Web.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Win32.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\netstandard.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.AppContext.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.Concurrent.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.NonGeneric.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.Specialized.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Console.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Data.Common.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Contracts.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Debug.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Process.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.StackTrace.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Tools.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.TraceSource.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Tracing.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Drawing.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Dynamic.Runtime.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Globalization.Calendars.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Globalization.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Globalization.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.Compression.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.Compression.ZipFile.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.IsolatedStorage.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.Pipes.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.Expressions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.Parallel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.Queryable.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Http.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.NameResolution.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.NetworkInformation.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Ping.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Requests.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Security.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Sockets.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.WebHeaderCollection.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.WebSockets.Client.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.WebSockets.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ObjectModel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Resources.Reader.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Resources.ResourceManager.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Resources.Writer.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Handles.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.InteropServices.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Numerics.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Json.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Claims.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Csp.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Principal.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.SecureString.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encoding.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encoding.Extensions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.RegularExpressions.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Overlapped.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Tasks.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Thread.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.ThreadPool.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Timer.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ValueTuple.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.ReaderWriter.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XDocument.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XmlDocument.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XmlSerializer.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XPath.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XPath.XDocument.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.csprojResolveAssemblyReference.cache
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.csproj.Ecommerce.API.exe.config
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.exe
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.pdb
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.ProductCatalog.Model.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\Tej\OneDrive\Projects\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.ProductCatalog.Model.pdb
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.exe.config
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.deps.json
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.exe
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.API.pdb
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\Microsoft.Win32.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\netfx.force.conflicts.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\netstandard.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.AppContext.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.Concurrent.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.NonGeneric.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Collections.Specialized.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Console.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Data.Common.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Contracts.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Debug.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Process.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.StackTrace.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Tools.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.TraceSource.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Diagnostics.Tracing.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Drawing.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Dynamic.Runtime.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Globalization.Calendars.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Globalization.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Globalization.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.Compression.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.Compression.ZipFile.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.IsolatedStorage.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.Pipes.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.Expressions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.Parallel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Linq.Queryable.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Http.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.NameResolution.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.NetworkInformation.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Ping.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Requests.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Security.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.Sockets.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.WebHeaderCollection.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.WebSockets.Client.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Net.WebSockets.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ObjectModel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Reflection.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Reflection.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Reflection.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Resources.Reader.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Resources.ResourceManager.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Resources.Writer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Handles.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.InteropServices.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Numerics.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Json.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Claims.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Csp.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.Principal.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Security.SecureString.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Text.Encoding.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Text.Encoding.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Text.RegularExpressions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Overlapped.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Tasks.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Thread.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.ThreadPool.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Threading.Timer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.ValueTuple.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.ReaderWriter.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XDocument.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XmlDocument.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XmlSerializer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XPath.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\refs\System.Xml.XPath.XDocument.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\libuv.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Cors.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Hosting.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Localization.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Razor.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Routing.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Localization.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.ObjectPool.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Options.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Extensions.WebEncoders.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Net.Http.Headers.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Internal.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Preview.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.Management.ServiceModel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.Strings.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Fabric.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.AspNetCore.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.AspNetCore.Kestrel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Data.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Services.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Win32.Registry.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Newtonsoft.Json.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Newtonsoft.Json.Bson.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Buffers.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.Immutable.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.Annotations.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Numerics.Vectors.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.Metadata.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.AccessControl.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Xml.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Principal.Windows.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encoding.CodePages.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encodings.Web.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.Win32.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\netstandard.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.AppContext.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.Concurrent.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.NonGeneric.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Collections.Specialized.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Console.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Data.Common.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Contracts.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Debug.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Process.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.StackTrace.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Tools.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.TraceSource.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Diagnostics.Tracing.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Drawing.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Dynamic.Runtime.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Globalization.Calendars.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Globalization.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Globalization.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.Compression.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.Compression.ZipFile.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.IsolatedStorage.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.Pipes.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.Expressions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.Parallel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Linq.Queryable.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Http.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.NameResolution.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.NetworkInformation.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Ping.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Requests.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Security.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.Sockets.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.WebHeaderCollection.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.WebSockets.Client.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Net.WebSockets.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ObjectModel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Reflection.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Resources.Reader.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Resources.ResourceManager.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Resources.Writer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Handles.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.InteropServices.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Numerics.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Json.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Claims.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Csp.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.Principal.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Security.SecureString.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encoding.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.Encoding.Extensions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Text.RegularExpressions.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Overlapped.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Tasks.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Thread.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.ThreadPool.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Threading.Timer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.ValueTuple.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.ReaderWriter.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XDocument.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XmlDocument.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XmlSerializer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XPath.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Xml.XPath.XDocument.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.ProductCatalog.Model.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Ecommerce.ProductCatalog.Model.pdb
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.csprojResolveAssemblyReference.cache
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.csproj.Ecommerce.API.exe.config
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.csproj.CoreCompileInputs.cache
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.AssemblyInfoInputs.cache
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.AssemblyInfo.cs
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.exe
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\obj\Debug\net461\win7-x64\Ecommerce.API.pdb
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Esent.Interop.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\NuGet.Frameworks.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Remotion.Linq.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Composition.AttributedModel.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Composition.Convention.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Composition.Hosting.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Composition.Runtime.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Composition.TypedParts.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Interactive.Async.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\System.Data.SqlClient.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Actors.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\UserActor.Interfaces.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\UserActor.Interfaces.pdb
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\Microsoft.ServiceFabric.Actors.xml
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\CheckoutService.Model.dll
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.API\bin\Debug\net461\win7-x64\CheckoutService.Model.pdb
