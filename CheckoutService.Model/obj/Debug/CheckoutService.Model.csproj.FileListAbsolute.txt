@@ -26,6 +26,5 @@ C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Che
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\CheckoutService.Model\bin\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\CheckoutService.Model\bin\Debug\System.Fabric.xml
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\CheckoutService.Model\obj\Debug\CheckoutService.Model.csprojResolveAssemblyReference.cache
-C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\CheckoutService.Model\obj\Debug\CheckoutService.Model.csproj.CoreCompileInputs.cache
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\CheckoutService.Model\obj\Debug\CheckoutService.Model.dll
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\CheckoutService.Model\obj\Debug\CheckoutService.Model.pdb
