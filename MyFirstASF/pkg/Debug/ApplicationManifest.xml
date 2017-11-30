@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ApplicationManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicationTypeName="MyFirstASFType" ApplicationTypeVersion="1.0.0" xmlns="http://schemas.microsoft.com/2011/01/fabric" ManifestId="94b8deab-717e-4dd6-a4cf-3687f6dd832b">
+<ApplicationManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicationTypeName="MyFirstASFType" ApplicationTypeVersion="1.0.2" xmlns="http://schemas.microsoft.com/2011/01/fabric" ManifestId="94b8deab-717e-4dd6-a4cf-3687f6dd832b">
   <Parameters>
     <Parameter Name="CheckoutService_MinReplicaSetSize" DefaultValue="3" />
     <Parameter Name="CheckoutService_PartitionCount" DefaultValue="1" />
@@ -16,18 +16,18 @@
        should match the Name and Version attributes of the ServiceManifest element defined in the 
        ServiceManifest.xml file. -->
   <ServiceManifestImport>
-    <ServiceManifestRef ServiceManifestName="CheckoutServicePkg" ServiceManifestVersion="1.0.0" />
+    <ServiceManifestRef ServiceManifestName="CheckoutServicePkg" ServiceManifestVersion="1.0.2" />
     <ConfigOverrides />
   </ServiceManifestImport>
   <ServiceManifestImport>
-    <ServiceManifestRef ServiceManifestName="UserActorPkg" ServiceManifestVersion="1.0.0" />
+    <ServiceManifestRef ServiceManifestName="UserActorPkg" ServiceManifestVersion="1.0.2" />
   </ServiceManifestImport>
   <ServiceManifestImport>
-    <ServiceManifestRef ServiceManifestName="Ecommerce.APIPkg" ServiceManifestVersion="1.0.0" />
+    <ServiceManifestRef ServiceManifestName="Ecommerce.APIPkg" ServiceManifestVersion="1.0.2" />
     <ConfigOverrides />
   </ServiceManifestImport>
   <ServiceManifestImport>
-    <ServiceManifestRef ServiceManifestName="Ecommerce.ProductCatalogPkg" ServiceManifestVersion="1.0.0" />
+    <ServiceManifestRef ServiceManifestName="Ecommerce.ProductCatalogPkg" ServiceManifestVersion="1.0.2" />
     <ConfigOverrides />
   </ServiceManifestImport>
   <DefaultServices>

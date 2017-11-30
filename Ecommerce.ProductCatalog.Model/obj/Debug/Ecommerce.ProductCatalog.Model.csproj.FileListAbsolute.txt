@@ -55,3 +55,4 @@ C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Eco
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.ProductCatalog.Model\obj\Debug\Ecommerce.ProductCatalog.Model.csprojResolveAssemblyReference.cache
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.ProductCatalog.Model\obj\Debug\Ecommerce.ProductCatalog.Model.dll
 C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.ProductCatalog.Model\obj\Debug\Ecommerce.ProductCatalog.Model.pdb
+C:\Users\tej.sidhu\OneDrive - Ivanti\MyProjects\SFA\ServiceFabric\MyFirstASF\Ecommerce.ProductCatalog.Model\obj\Debug\Ecommerce.ProductCatalog.Model.csproj.CoreCompileInputs.cache
